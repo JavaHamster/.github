@@ -15,7 +15,7 @@ JHamster has 3 major pillars:
 
 ## Installation
 
-Is coming soon with docker...
+Is coming soon using docker...
 
 ## About us
 
