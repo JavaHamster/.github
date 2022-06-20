@@ -4,6 +4,8 @@
 
 JHamster is our software diploma project where you can learn programming while plaing with our hamster. 
 
+for more information write an email: info.jhamster@gmail.com
+
 ## Components
 
 JHamster has 3 major pillars: 
@@ -17,5 +19,5 @@ Is coming soon with docker...
 
 ## About us
 
-Backend Dev: 
-Frontend Dev: 
+- Backend Dev: 
+- Frontend Dev: 
