@@ -2,7 +2,7 @@
 
 ## Info
 
-JHamster is our software diploma project where you can learn programming while plaing with our hamster. 
+JHamster is our software diploma project where you can learn programming while playing with our hamster. 
 
 for more information write an email: info.jhamster@gmail.com
 
