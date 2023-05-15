@@ -15,9 +15,11 @@ JHamster has 3 major pillars:
 
 ## Installation
 
-Is coming soon using docker...
+Is coming soon using docker, for now see the installation guide in the repositories...
 
 ## About us
 
-- Backend Dev: 
-- Frontend Dev: 
+- Backend Developer Team:
+  - Hattinger04 
+- Frontend Developer Team:
+  - AlexanderMuehlegger 
